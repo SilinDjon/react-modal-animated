@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-modal-animated/static/css/main.eab0744e.css",
+    "main.js": "/react-modal-animated/static/js/main.fe6af42f.js",
+    "index.html": "/react-modal-animated/index.html",
+    "main.eab0744e.css.map": "/react-modal-animated/static/css/main.eab0744e.css.map",
+    "main.fe6af42f.js.map": "/react-modal-animated/static/js/main.fe6af42f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab0744e.css",
+    "static/js/main.fe6af42f.js"
+  ]
+}
